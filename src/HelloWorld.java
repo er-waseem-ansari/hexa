@@ -17,5 +17,6 @@ public class HelloWorld {
                 int indexOfSubstring = str1.indexOf("lo");
                 System.out.println("Index of 'lo' in str1: " + indexOfSubstring);
                 System.out.println("NEW UPDATED CODE GOES HERE");
+                System.out.println("Anoter branch of this");
         }
 }
