@@ -16,5 +16,6 @@ public class HelloWorld {
                 System.out.println("str2 in uppercase: " + str2.toUpperCase());
                 int indexOfSubstring = str1.indexOf("lo");
                 System.out.println("Index of 'lo' in str1: " + indexOfSubstring);
+                System.out.println("NEW UPDATED CODE GOES HERE");
         }
 }
